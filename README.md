@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Sarmat Karaf" /></a>
-</p>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&pause=1000&color=28FF49&repeat=false&width=500&height=75&lines=Sarmat+Karaf" alt="Typing SVG" /></a>
+  </p>
 ## 🥇 10+ Years of Hands-On Experience Building Scalable and Reliable Solutions 🥇
 
 I'm a highly skilled full-stack developer focused on creating efficient, user-friendly applications. With over a decade of experience across a range of technologies and industries, I specialize in building end-to-end solutions that are both scalable and secure. I thrive on turning complex requirements into high-quality code.
