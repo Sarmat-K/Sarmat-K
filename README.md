@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=3000&pause=1000&color=28FF49&center=true&vCenter=true&repeat=false&width=500&height=75&lines=Sarmat+Karaf" alt="Sarmat Karaf" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=3000&pause=1000&color=28FF49&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Sarmat+Karaf" alt="Sarmat Karaf" /></a>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=3000&pause=1000&color=28FF49&center=true&vCenter=true&width=1000&height=75&lines=Software+Engineer+and+Full-Stack+Developer;AI%2FML+Engineer+and+Data+Engineer;Over+6+years+of+experience+in+coding;Continuously+learning+and+expanding+my+knowledge" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=3000&pause=1000&color=28FF49&center=true&vCenter=true&width=1000&height=30&lines=Software+Engineer+and+Full-Stack+Developer;AI%2FML+Engineer+and+Data+Engineer;Over+6+years+of+experience+in+coding;Continuously+learning+and+expanding+my+knowledge" alt="Typing SVG" /></a>
 </p>
 
 I'm a highly skilled full-stack developer focused on creating efficient, user-friendly applications. With over a decade of experience across a range of technologies and industries, I specialize in building end-to-end solutions that are both scalable and secure. I thrive on turning complex requirements into high-quality code.
