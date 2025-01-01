@@ -6,7 +6,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=3000&pause=1000&color=28FF49&center=true&vCenter=true&width=1000&height=30&lines=Software+Engineer+and+Full-Stack+Developer;AI%2FML+Engineer+and+Data+Engineer;Over+6+years+of+experience+in+coding;Continuously+learning+and+expanding+my+knowledge" alt="Typing SVG" /></a>
 </p>
 
-I'm a highly skilled full-stack developer focused on creating efficient, user-friendly applications. With over a decade of experience across a range of technologies and industries, I specialize in building end-to-end solutions that are both scalable and secure. I thrive on turning complex requirements into high-quality code.
+---
+
+Specializing in building scalable, efficient, and user-friendly applications across various industries, 
+I focus on creating end-to-end solutions that are secure and maintainable. Proficient in **Python**, **C++**, and **SQL**, with expertise in **full-stack development**, **machine learning integration**, 
+and **system optimization**. Skilled in automating workflows, modernizing legacy systems, and collaborating with cross-functional teams. Adept at leveraging **AI technologies** and **data analytics** to drive innovation, improve performance, and transform complex requirements into high-quality code.
 
 ---
 
