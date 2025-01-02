@@ -18,4 +18,21 @@ and **system optimization**. Skilled in automating workflows, modernizing legacy
   <a href="https://www.linkedin.com/in/sarmatkaraf/">
     <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=43FF00" alt="Icon" width="50">
   </a>
+       
+   <a href="https://www.upwork.com/freelancers/~014b1a9cdb101562ad">
+    <img src="https://img.icons8.com/?size=100&id=2y_wcSzVjqiQ&format=png&color=43FF00" alt="Icon" width="50">
+  </a>
+
+  <a href="https://t.me/Sarmat_Wazouski">
+    <img src="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=43FF00" alt="Icon" width="50">
+  </a>
+
+  <a href="https://vk.com/mike_vvazovsky">
+    <img src="https://img.icons8.com/?size=100&id=38514&format=png&color=43FF00" alt="Icon" width="50">
+  </a>
+
+  <a href="https://discordapp.com/users/623114064385671188/">
+    <img src="https://img.icons8.com/?size=100&id=25627&format=png&color=43FF00" alt="Icon" width="50">
+  </a>
+
 </p>
